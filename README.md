@@ -1,2 +1,2 @@
-# divinebot
-DivinePvP's Official Music Bot
+# DivinePvP's Private Music bot
+
